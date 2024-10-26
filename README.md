@@ -39,6 +39,7 @@ In this repository, I will document all the tools I learn throughout my cybersec
    - Replace `[IP address of Metasploitable]` with the actual IP address assigned to your Metasploitable machine.
    - The `ping` command sends ICMP Echo Request packets to the specified IP address and waits for a reply. A successful ping response (e.g., `64 bytes from [IP address]: icmp_seq=1 ttl=64 time=0.123 ms`) indicates that the machines can communicate with each other.
 
+-------------------------------------------
 > ⚠️ **Disclaimer**: The techniques and tools presented in this repository are intended strictly for educational purposes. Engaging in hacking or penetration testing on any network without explicit permission is illegal and unethical. 
-
+-------------------------------------------
 
