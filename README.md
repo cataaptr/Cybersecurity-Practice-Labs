@@ -3,8 +3,8 @@ In this repository, I will document all the tools I learn throughout my cybersec
 
 ## ✅ Setup Components:
 1. **VMware (or other virtualization platforms, e.g., VirtualBox)**
--*Description*: VMware or VirtualBox provides the virtualized environment needed for setting up and running different OS instances safely.
--*Recommended Video*: [How to Install Windows 11 on VMware](https://www.youtube.com/watch?v=pRYCUaUBuUs&t=260s)
+*Description*: VMware or VirtualBox provides the virtualized environment needed for setting up and running different OS instances safely.
+*Recommended Video*: [How to Install Windows 11 on VMware](https://www.youtube.com/watch?v=pRYCUaUBuUs&t=260s)
 
 2. **Kali Linux Purple**
 -*Description*: Kali Linux Purple is a specialized distribution tailored for cybersecurity professionals, offering pre-installed tools for both offensive and defensive security.
@@ -20,7 +20,7 @@ In this repository, I will document all the tools I learn throughout my cybersec
 ## Network Configuration
 
 - Ensure that both **Kali Linux** and **Metasploitable 2** are on the same virtual network. You can test the connectivity between the two machines using the `ping` command.
--  Recommended Video: [How to Link Kali Linux with Metasploitable 2](https://www.geeksforgeeks.org/how-to-link-kali-linux-with-metasploitable-2/)
+- Recommended Site: [How to Link Kali Linux with Metasploitable 2](https://www.geeksforgeeks.org/how-to-link-kali-linux-with-metasploitable-2/)
 
 1. **Check IP Address on Kali Linux**:
    - Open a terminal on **Kali Linux** and run the following command to find the IP address assigned to your Kali machine:
