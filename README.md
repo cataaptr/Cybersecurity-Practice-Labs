@@ -19,7 +19,7 @@ In this repository, I will document all the tools I learn throughout my cybersec
 - *Recommended Video*: [How to install and Configure Metasploit on Kali Linux 2022](https://www.youtube.com/watch?v=DKWDx70cAnU&t=120s), [install Kali Linux 2024.1 & Metasploitable2 on VirtualBox 7 Step By Step : Cyber Security Lab 2024](https://www.youtube.com/watch?v=yf3jetn4tN8&t=211s)
 
 
-## Network Configuration
+## 🔗 Network Configuration
 
 - Ensure that both **Kali Linux** and **Metasploitable 2** are on the same virtual network. You can test the connectivity between the two machines using the `ping` command.
 - Recommended Site: [How to Link Kali Linux with Metasploitable 2](https://www.geeksforgeeks.org/how-to-link-kali-linux-with-metasploitable-2/)
