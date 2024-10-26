@@ -1,18 +1,22 @@
 # 🔐 Cybersecurity-Practice-Labs
 In this repository, I will document all the tools I learn throughout my cybersecurity journey, hoping it may also be useful for others.
 
+
 ## ✅ Setup Components:
 1. **VMware (or other virtualization platforms, e.g., VirtualBox)**
 - *Description*: VMware or VirtualBox provides the virtualized environment needed for setting up and running different OS instances safely.
 - *Recommended Video*: [How to Install Windows 11 on VMware](https://www.youtube.com/watch?v=pRYCUaUBuUs&t=260s)
 
+
 2. **Kali Linux Purple**
 - *Description*: Kali Linux Purple is a specialized distribution tailored for cybersecurity professionals, offering pre-installed tools for both offensive and defensive security.
-- *Recommended Video*: [How To Install Kali Linux Purple 2023.1](https://www.youtube.com/watch?v=ZR35g8AWebc&t=1052s), [Install Kali Purple In VMWare Workstation 17](https://www.youtube.com/watch?v=fpzn3dSBgcI], [Install Kali Linux Purple on a VMware](https://www.youtube.com/watch?v=O2xtREUgJnw&t=478s)
+- *Recommended Video*: [How To Install Kali Linux Purple 2023.1](https://www.youtube.com/watch?v=ZR35g8AWebc&t=1052s), [Install Kali Purple In VMWare Workstation 17](https://www.youtube.com/watch?v=fpzn3dSBgcI), [Install Kali Linux Purple on a VMware](https://www.youtube.com/watch?v=O2xtREUgJnw&t=478s)
+
 
 3. **Metasploitable 2**
 - *Description*: Metasploitable 2 is a vulnerable virtual machine used for practice in penetration testing.
 - *Recommended Video*: [How to install and Configure Metasploit on Kali Linux 2022](https://www.youtube.com/watch?v=DKWDx70cAnU&t=120s), [install Kali Linux 2024.1 & Metasploitable2 on VirtualBox 7 Step By Step : Cyber Security Lab 2024](https://www.youtube.com/watch?v=yf3jetn4tN8&t=211s)
+
 
 ## Network Configuration
 
