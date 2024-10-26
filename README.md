@@ -3,6 +3,8 @@ In this repository, I will document all the tools I learn throughout my cybersec
 
 <img src="img/cover.jpg" width="1500" height="150" />
 
+⚠️ **Disclaimer**: The techniques and tools presented in this repository are intended strictly for educational purposes. Engaging in hacking or penetration testing on any network without explicit permission is illegal and unethical. 
+
 ## ✅ Setup Components:
 1. **VMware (or other virtualization platforms, e.g., VirtualBox)**
 - *Description*: VMware or VirtualBox provides the virtualized environment needed for setting up and running different OS instances safely.
