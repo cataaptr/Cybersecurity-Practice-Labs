@@ -43,3 +43,4 @@ In this repository, I will document all the tools I learn throughout my cybersec
 > ⚠️ **Disclaimer**: The techniques and tools presented in this repository are intended strictly for educational purposes. Engaging in hacking or penetration testing on any network without explicit permission is illegal and unethical. 
 -------------------------------------------
 
+# ⚔️ Contents
