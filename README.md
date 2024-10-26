@@ -1,7 +1,7 @@
 # 🔐 Cybersecurity-Practice-Labs
 In this repository, I will document all the tools I learn throughout my cybersecurity journey, hoping it may also be useful for others.
 
-<img src="img/cover.jpg" width="600" height="900" />
+<img src="img/cover.jpg" width="900" height="600" />
 
 ## ✅ Setup Components:
 1. **VMware (or other virtualization platforms, e.g., VirtualBox)**
