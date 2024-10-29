@@ -23,4 +23,4 @@
      ```
 
    - Within seconds, the password was successfully found.
-    ![PrintScreen](img/zip1.png)
+    ![PrintScreen](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/zip1.png)
