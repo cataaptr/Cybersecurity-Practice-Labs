@@ -16,7 +16,7 @@ I used **John the Ripper** to crack a password on my own machine. The process in
 >  -  123123
 >  -  qwerty
 >  -  abc123
-
+--------------
 
 ## Steps: 
 
