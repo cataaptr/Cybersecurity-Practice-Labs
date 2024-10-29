@@ -23,4 +23,4 @@
      ```
 
    - Within seconds, the password was successfully found.
-   - ![PrintScreen](img/zip1.png)
+    ![PrintScreen](img/zip1.png)
