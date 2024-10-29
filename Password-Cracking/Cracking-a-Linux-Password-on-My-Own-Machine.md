@@ -2,10 +2,10 @@
 
 I used **John the Ripper** to crack a password on my own machine. The process involved utilizing a password hash and a predefined dictionary of common passwords. By extracting the password hash and testing it against the entries in the dictionary, I aimed to find a matching password. This method illustrates how even simple passwords can be compromised, emphasizing the importance of using strong, unique passwords for security.
 
+--------------
 > ⚠️ Given that there are existing dictionaries of common passwords available on the internet, we should be more cautious about our password choices. Using strong, unique passwords is essential for protecting our accounts and sensitive information.
-
-
-> Most Easiest Passwords to Crack
+>
+> **Most Easiest Passwords to Crack:**
 >  -  123456
 >  -  password
 >  -  123456789
@@ -16,6 +16,7 @@ I used **John the Ripper** to crack a password on my own machine. The process in
 >  -  123123
 >  -  qwerty
 >  -  abc123
+--------------
 
 ## Steps: 
 
