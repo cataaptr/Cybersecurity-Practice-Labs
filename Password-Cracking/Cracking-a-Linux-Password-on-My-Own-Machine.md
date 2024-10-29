@@ -3,6 +3,19 @@
 I used **John the Ripper** to crack a password on my own machine. The process involved utilizing a password hash and a predefined dictionary of common passwords. By extracting the password hash and testing it against the entries in the dictionary, I aimed to find a matching password. This method illustrates how even simple passwords can be compromised, emphasizing the importance of using strong, unique passwords for security.
 
 > “123456” is one of the most commonly used passwords in the world, making it an easy target for a hacker attempting a brute-force attack.
+> Most Easiest Passwords to Crack
+>    123456
+>    password
+>    123456789
+>    12345678
+>    12345
+>    1234567
+>    111111
+>    123123
+>    qwerty
+>    abc123
+>
+> ⚠️ Given that there are existing dictionaries of common passwords available on the internet, we should be more cautious about our password choices. Using strong, unique passwords is essential for protecting our accounts and sensitive information.
 
 ## Steps: 
 
