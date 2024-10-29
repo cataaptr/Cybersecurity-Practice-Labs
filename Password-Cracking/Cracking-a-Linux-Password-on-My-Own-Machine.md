@@ -1,6 +1,8 @@
 # 🔓 Cracking a Linux Password on My Own Machine
 
-I used **John the Ripper** to crack a Linux password on my own machine. The process involved several steps:
+I used **John the Ripper** to crack a password on my own machine. The process involved utilizing a password hash and a predefined dictionary of common passwords. By extracting the password hash and testing it against the entries in the dictionary, I aimed to find a matching password. This method illustrates how even simple passwords can be compromised, emphasizing the importance of using strong, unique passwords for security.
+
+> “123456” is one of the most commonly used passwords in the world, making it an easy target for a hacker attempting a brute-force attack.
 
 ## Steps: 
 
@@ -22,10 +24,9 @@ I used **John the Ripper** to crack a Linux password on my own machine. The proc
       ```bash
       sudo john --format=crypt linuxpass.txt --wordlist=/usr/share/john/password.lst
       ```
-![PrintScreen](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/pass1.png)
+      ![PrintScreen](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/pass1.png)
 
 4. **Change the Password:** 
     - I navigated to the password dictionary, changed user2’s password to "tamara," which I found in the dictionary, and then reapplied the previous steps. This time, the password was successfully cracked.
-
- ![PrintScreen](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/pass2.png)
+      ![PrintScreen](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/pass2.png)
 
