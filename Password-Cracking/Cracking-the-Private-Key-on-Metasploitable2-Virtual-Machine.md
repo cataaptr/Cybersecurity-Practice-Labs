@@ -7,7 +7,7 @@
 
 	Hashing: A process that converts passwords into fixed-size strings using a hash function, allowing systems to store passwords securely by saving only their hashes instead of the actual passwords.
 
-	**Password Dictionary: A collection of common passwords and phrases used by cracking tools to quickly test against password hashes, exploiting the tendency of users to choose weak passwords.
+	Password Dictionary: A collection of common passwords and phrases used by cracking tools to quickly test against password hashes, exploiting the tendency of users to choose weak passwords.
 
 	SSH (Secure Shell): A secure network protocol for accessing and managing devices over an unsecured network, providing encrypted communication and strong authentication.
 
