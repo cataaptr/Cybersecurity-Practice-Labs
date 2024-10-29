@@ -53,6 +53,7 @@ In this repository, I will document all the tools I learn throughout my cybersec
    - [Cracking a Password Protected PDF File](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/Files-Security-and-Analysis/Cracking-a-Password-Protected-PDF-File.md)
 5. **Phishing and Social Engineering**
 6. **Web Vulnerability Scanning and Exploitation**
-7. **Exploitation Framework**
-8. **Defensive Security**
-9.  **Digital Forensics**
+   - [SQL Injection](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/Web-Vulnerability-Scanning-and-Exploitation/SQL-Injection.md)
+8. **Exploitation Framework**
+9. **Defensive Security**
+10.  **Digital Forensics**
