@@ -4,7 +4,7 @@ I used **John the Ripper** to crack a password on my own machine. The process in
 
 --------------
 > ⚠️ Given that there are existing dictionaries of common passwords available on the internet, we should be more cautious about our password choices. Using strong, unique passwords is essential for protecting our accounts and sensitive information.
->
+--------------
 > **Most Easiest Passwords to Crack:**
 >  -  123456
 >  -  password
@@ -16,7 +16,7 @@ I used **John the Ripper** to crack a password on my own machine. The process in
 >  -  123123
 >  -  qwerty
 >  -  abc123
---------------
+
 
 ## Steps: 
 
