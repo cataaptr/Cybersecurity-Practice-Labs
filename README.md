@@ -46,10 +46,10 @@ In this repository, I will document all the tools I learn throughout my cybersec
 # ⚔️ Contents
 1. **Scanning Networks**
 2. **Password Cracking**
-3. **File Security and Analysis**
-   -Cracking Password-Protected Files
-5. **Phishing and Social Engineering**
-6. **Web Vulnerability Scanning and Exploitation**
-7. **Exploitation Framework**
-8. **Defensive Security**
-9. **Digital Forensics**
+3. [File Security and Analysis](./File-Security-and-Analysis)
+   -[Crack Password Protected Files](./Crack-Password-Protected-Files)
+4. **Phishing and Social Engineering**
+5. **Web Vulnerability Scanning and Exploitation**
+6. **Exploitation Framework**
+7. **Defensive Security**
+8.  **Digital Forensics**
