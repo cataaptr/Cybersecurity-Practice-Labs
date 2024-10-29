@@ -1,4 +1,4 @@
-# 📄 Cracking a Password-Protected PDF File
+# 📄 Cracking a Password Protected PDF File
 
 I used John the Ripper to crack a password-protected PDF file with the password "computer." First, I extracted the password hash using the pdf2john tool, which is essential for the cracking process. Then, I use John the Ripper to perform a dictionary attack, testing multiple common passwords against the hash. This example highlights how weak passwords like "computer" can be easily compromised, emphasizing the need for strong, unique passwords to protect sensitive documents.
 
