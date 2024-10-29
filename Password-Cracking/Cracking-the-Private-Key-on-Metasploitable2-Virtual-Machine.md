@@ -1,15 +1,15 @@
 # 🔓 Cracking the Private Key on Metasploitable2 Virtual Machine
 
 ## **Key Concepts**
-	** Brute-Force Attack:** A method where the attacker systematically tries every possible combination of characters until the correct password is found. This approach can be very effective against weak passwords.
+	Brute-Force Attack: A method where the attacker systematically tries every possible combination of characters until the correct password is found. This approach can be very effective against weak passwords.
 
-	**John the Ripper:** An open-source password cracking tool used to recover weak passwords through various methods, including dictionary and brute-force attacks.
+	John the Ripper: An open-source password cracking tool used to recover weak passwords through various methods, including dictionary and brute-force attacks.
 
-	**Hashing:** A process that converts passwords into fixed-size strings using a hash function, allowing systems to store passwords securely by saving only their hashes instead of the actual passwords.
+	Hashing: A process that converts passwords into fixed-size strings using a hash function, allowing systems to store passwords securely by saving only their hashes instead of the actual passwords.
 
-	**Password Dictionary:** A collection of common passwords and phrases used by cracking tools to quickly test against password hashes, exploiting the tendency of users to choose weak passwords.
+	**Password Dictionary: A collection of common passwords and phrases used by cracking tools to quickly test against password hashes, exploiting the tendency of users to choose weak passwords.
 
-	**SSH (Secure Shell):** A secure network protocol for accessing and managing devices over an unsecured network, providing encrypted communication and strong authentication.
+	SSH (Secure Shell): A secure network protocol for accessing and managing devices over an unsecured network, providing encrypted communication and strong authentication.
 
 
 >Note: Always use strong, unique passwords to protect your accounts. Common passwords, such as "1234567," are easily cracked and put your accounts at risk.
@@ -64,7 +64,7 @@
      ls *hash
      john --wordlist=/usr/share/john/password.lst id_rsa.hash
      ```
-	![printScreen1](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/bruteForce1.png)
+		![printScreen1](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/bruteForce1.png)
 
 7. **Apply the Key to the Target:**
    - Copied the private key to the John the Ripper directory and accessed the target machine:
@@ -73,4 +73,4 @@
      ls id*
      ssh -oHostKeyAlgorithms=+ssh-rsa -i id_rsa cati@YOUR_IP_ADDRESS
      ```
-	![printScreen2](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/bruteForce2.png)
+		![printScreen2](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/img/bruteForce2.png)
