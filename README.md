@@ -46,8 +46,8 @@ In this repository, I will document all the tools I learn throughout my cybersec
 # ⚔️ Contents
 1. **Scanning Networks**
 2. **Password Cracking**
-3. [File Security and Analysis](./File-Security-and-Analysis)
-   -[Crack Password Protected Files](./Crack-Password-Protected-Files)
+3. [File Security and Analysis](https://github.com/cataaptr/Cybersecurity-Practice-Labs/tree/main/Files-Security-and-Analysis)
+   - [Crack Password Protected Files](https://github.com/cataaptr/Cybersecurity-Practice-Labs/blob/main/Files-Security-and-Analysis/Crack-Password-Protected-Files.md)
 4. **Phishing and Social Engineering**
 5. **Web Vulnerability Scanning and Exploitation**
 6. **Exploitation Framework**
